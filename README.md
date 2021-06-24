@@ -6,7 +6,7 @@ Accept a file name and a number (x). Display x lines from the top of the file. C
 # Introduction 
 In this task I have to accept one file and number. Then I have to print the number of lines in file. After all this I have to find out file exists or not and also readable or not. At the end I have to print suitable massage in case of an error is encountred.
 
-# Procedure
+# Explanation
 Step 1:- Create a file name. File nmae is "data.txt".
 
 Step 2:- After creating a file we need to add some lines in the file. So we used "write mode" with the file name, example(fp = open("data.txt", 'w')). To write 10 lines in the file, range sholud be set to "10" then the loop will work for 10 times and 10 lines printed, as given in the "code file". 
