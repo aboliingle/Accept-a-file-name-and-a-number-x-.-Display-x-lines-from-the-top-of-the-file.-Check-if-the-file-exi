@@ -17,9 +17,9 @@ To find out file name exists or not. Imported "operating system package" then us
 Step 4:- So, take 2 cases. First file name is "data.txt" and second file name is "ZXC.txt". So pass the "data.txt" file the program wil print "file exist",
 then pass "ZXC.txt" file program will print "file not exist". The file we created in the starting only that file is exist.
 
-Step 5 :- Next step to find out file is readable or not. In two ways we can find out that, so write "type 1" and "type 2" in the programme. It print "True" when file is readable. Print "False" when file is not readable
+Step 5 :- Next step to find out file is readable or not. In two ways we can find out that, so write "type 1" and "type 2" in the program. It print "True" when file is readable. Print "False" when file is not readable
 
-Step 6 :- As per mentioned in the task, we have to find out number of lines in the file. That count is stored in "line_count", you can see in programme. After counting the number of lines in the file. Compare the number "x" not exceed the number of lines in the file.
+Step 6 :- As per mentioned in the task, we have to find out number of lines in the file. That count is stored in "line_count", you can see in program. After counting the number of lines in the file. Compare the number "x" not exceed the number of lines in the file.
 
 Step 7:- Take three different values for "x" i.e x = 8, x = 15, x = 10. Three cases I used to define three situation.
 
@@ -32,5 +32,5 @@ Step 10:- Case 3, When "X=10", The value of X is similar to the number of lines 
 # Tool Used
 Google Colab Notebook.
 
-# Programing Langauge
+# Programming Language
 Python 3.8
